@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_toast"
+        android:title="Show Toast"/>
+    <item
+        android:id="@+id/menu_president"
+        android:title="Go to President Activity"/>
+    <item
+        android:id="@+id/menu_gallery"
+        android:title="Open Gallery"/>
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Exit"/>
+</menu>
